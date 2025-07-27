@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.logo {
+  text-align: center;
+}
+
+.line, .line-2 {
+  height: 130px;
+  width: 590px;
+  background-color: #81BCE8;
+}
+
+h1 {
+  height: 130px;
+  width: 590px;
+  margin: 0;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 70px;
+  font-weight: bold;
+  color: black;
+  letter-spacing: 10px;
+}
